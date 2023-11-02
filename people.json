@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "name" : "Howard Davies",
+            "nyanyianRef" : "1",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Lee Fishers",
+            "nyanyianRef" : "1",
+            "role" : "composer"
+        },
+        {
+            "name" : "Thomas Obadiah Chisholm",
+            "nyanyianRef" : "2",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "William M. Runyan",
+            "nyanyianRef" : "2",
+            "role" : "composer"
+        },
+        {
+            "name" : "J. L de Fretes",
+            "nyanyianRef" : "3",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Sidney Edward Cox",
+            "nyanyianRef" : "4",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Sidney Edward Cox",
+            "nyanyianRef" : "4",
+            "role" : "composer"
+        },
+        {
+            "name" : "James Montgomery",
+            "nyanyianRef" : "5",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Carl Boberg",
+            "nyanyianRef" : "6",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Stuart K. Hine",
+            "nyanyianRef" : "6",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Sidney Edward Cox",
+            "nyanyianRef" : "6",
+            "role" : "composer"
+        },
+        {
+            "name" : "Reginald Heber",
+            "nyanyianRef" : "7",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "John Bacchus Dykes",
+            "nyanyianRef" : "7",
+            "role" : "composer"
+        },
+        {
+            "name" : "Seth Wells",
+            "nyanyianRef" : "9",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Edmund Simon Lorenz",
+            "nyanyianRef" : "9",
+            "role" : "composer"
+        },
+        {
+            "name" : "Martin Rinkart",
+            "nyanyianRef" : "10",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Johann Crüger",
+            "nyanyianRef" : "10",
+            "role" : "composer"
+        },
+        {
+            "name" : "Felix Mendelssohn",
+            "nyanyianRef" : "10",
+            "role" : "composer"
+        },
+        {
+            "name" : "Joachim Neander",
+            "nyanyianRef" : "11",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "Catherine Winkworth",
+            "nyanyianRef" : "11",
+            "role" : "lyricist"
+        },
+        {
+            "name" : "William S. Bennett",
+            "nyanyianRef" : "11",
+            "role" : "composer"
+        },
+    ]
+}
