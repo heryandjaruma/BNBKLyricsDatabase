@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "verse": [
+                // array of verse (don't include the verse number)
+            ],
+            "chorus": "songChorus.."
+        },
+        {
+            "id": "2",
+            "verse": [
+                // array of verse (don't include the verse number)
+            ],
+            "chorus": "songChorus.."
+        },
+        //and so on
+    ]
+}
