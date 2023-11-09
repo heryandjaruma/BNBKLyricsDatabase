@@ -1,116 +1,140 @@
 [
     {
-        "name": "Howard Davies",
+        "id": "1",
+        "authorRef": "1",
         "nyanyianRef": "1",
         "role": "lyricist"
     },
     {
-        "name": "Lee Fishers",
+        "id": "1",
+        "authorRef": "2",
         "nyanyianRef": "1",
         "role": "composer"
     },
     {
-        "name": "Thomas Obadiah Chisholm",
+        "id": "1",
+        "authorRef": "3",
         "nyanyianRef": "2",
         "role": "lyricist"
     },
     {
-        "name": "William M. Runyan",
+        "id": "1",
+        "authorRef": "4",
         "nyanyianRef": "2",
         "role": "composer"
     },
     {
-        "name": "J. L de Fretes",
+        "id": "1",
+        "authorRef": "5",
         "nyanyianRef": "3",
         "role": "lyricist"
     },
     {
-        "name": "Sidney Edward Cox",
+        "id": "1",
+        "authorRef": "6",
         "nyanyianRef": "4",
         "role": "lyricist"
     },
     {
-        "name": "Sidney Edward Cox",
+        "id": "1",
+        "authorRef": "6",
         "nyanyianRef": "4",
         "role": "composer"
     },
     {
-        "name": "James Montgomery",
+        "id": "1",
+        "authorRef": "7",
         "nyanyianRef": "5",
         "role": "lyricist"
     },
     {
-        "name": "Carl Boberg",
+        "id": "1",
+        "authorRef": "8",
         "nyanyianRef": "6",
         "role": "lyricist"
     },
     {
-        "name": "Stuart K. Hine",
+        "id": "1",
+        "authorRef": "21",
         "nyanyianRef": "6",
         "role": "lyricist"
     },
     {
-        "name": "Sidney Edward Cox",
+        "id": "1",
+        "authorRef": "6",
         "nyanyianRef": "6",
         "role": "composer"
     },
     {
-        "name": "Reginald Heber",
+        "id": "1",
+        "authorRef": "9",
         "nyanyianRef": "7",
         "role": "lyricist"
     },
     {
-        "name": "John Bacchus Dykes",
+        "id": "1",
+        "authorRef": "10",
         "nyanyianRef": "7",
         "role": "composer"
     },
     {
-        "name": "Seth Wells",
+        "id": "1",
+        "authorRef": "11",
         "nyanyianRef": "9",
         "role": "lyricist"
     },
     {
-        "name": "Edmund Simon Lorenz",
+        "id": "1",
+        "authorRef": "12",
         "nyanyianRef": "9",
         "role": "composer"
     },
     {
-        "name": "Martin Rinkart",
+        "id": "1",
+        "authorRef": "13",
         "nyanyianRef": "10",
         "role": "lyricist"
     },
     {
-        "name": "Johann Crüger",
-        "nyanyianRef": "10",
-        "role": "composer"
-    },
-    {
-        "name": "Felix Mendelssohn",
+        "id": "1",
+        "authorRef": "14",
         "nyanyianRef": "10",
         "role": "composer"
     },
     {
-        "name": "Joachim Neander",
+        "id": "1",
+        "authorRef": "15",
+        "nyanyianRef": "10",
+        "role": "composer"
+    },
+    {
+        "id": "1",
+        "authorRef": "16",
         "nyanyianRef": "11",
         "role": "lyricist"
     },
     {
-        "name": "Catherine Winkworth",
+        "id": "1",
+        "authorRef": "17",
         "nyanyianRef": "11",
         "role": "lyricist"
     },
     {
+        "id": "1",
+        "authorRef": "18",
         "name": "William S. Bennett",
         "nyanyianRef": "11",
         "role": "composer"
     },
     {
-        "name": "Henry Francis Lyte",
+        "id": "1",
+        "authorRef": "19",
         "nyanyianRef": "13",
         "role": "author"
     },
     {
-        "name": "Scottish Psalter",
+        "id": "1",
+        "authorRef": "20",
         "nyanyianRef": "14",
         "role": "book"
     }
