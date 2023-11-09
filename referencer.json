@@ -1,139 +1,138 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "authorRef": "1",
         "nyanyianRef": "1",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 2,
         "authorRef": "2",
         "nyanyianRef": "1",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 3,
         "authorRef": "3",
         "nyanyianRef": "2",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 4,
         "authorRef": "4",
         "nyanyianRef": "2",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 5,
         "authorRef": "5",
         "nyanyianRef": "3",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 6,
         "authorRef": "6",
         "nyanyianRef": "4",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 7,
         "authorRef": "6",
         "nyanyianRef": "4",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 8,
         "authorRef": "7",
         "nyanyianRef": "5",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 9,
         "authorRef": "8",
         "nyanyianRef": "6",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 10,
         "authorRef": "21",
         "nyanyianRef": "6",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 11,
         "authorRef": "6",
         "nyanyianRef": "6",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 12,
         "authorRef": "9",
         "nyanyianRef": "7",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 13,
         "authorRef": "10",
         "nyanyianRef": "7",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 14,
         "authorRef": "11",
         "nyanyianRef": "9",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 15,
         "authorRef": "12",
         "nyanyianRef": "9",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 16,
         "authorRef": "13",
         "nyanyianRef": "10",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 17,
         "authorRef": "14",
         "nyanyianRef": "10",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 18,
         "authorRef": "15",
         "nyanyianRef": "10",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 19,
         "authorRef": "16",
         "nyanyianRef": "11",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 20,
         "authorRef": "17",
         "nyanyianRef": "11",
         "role": "lyricist"
     },
     {
-        "id": "1",
+        "id": 21,
         "authorRef": "18",
-        "name": "William S. Bennett",
         "nyanyianRef": "11",
         "role": "composer"
     },
     {
-        "id": "1",
+        "id": 22,
         "authorRef": "19",
         "nyanyianRef": "13",
         "role": "author"
     },
     {
-        "id": "1",
+        "id": 23,
         "authorRef": "20",
         "nyanyianRef": "14",
         "role": "book"
