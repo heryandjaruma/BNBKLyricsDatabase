@@ -1,140 +1,170 @@
 [
     {
         "id": 1,
-        "authorRef": "1",
-        "nyanyianRef": "1",
+        "authorId": 1,
+        "titleId": 1,
         "role": "lyricist"
     },
     {
         "id": 2,
-        "authorRef": "2",
-        "nyanyianRef": "1",
+        "authorId": 2,
+        "titleId": 1,
         "role": "composer"
     },
     {
         "id": 3,
-        "authorRef": "3",
-        "nyanyianRef": "2",
+        "authorId": 3,
+        "titleId": 2,
         "role": "lyricist"
     },
     {
         "id": 4,
-        "authorRef": "4",
-        "nyanyianRef": "2",
+        "authorId": 4,
+        "titleId": 2,
         "role": "composer"
     },
     {
         "id": 5,
-        "authorRef": "5",
-        "nyanyianRef": "3",
+        "authorId": 5,
+        "titleId": 3,
         "role": "lyricist"
     },
     {
         "id": 6,
-        "authorRef": "6",
-        "nyanyianRef": "4",
+        "authorId": 6,
+        "titleId": 4,
         "role": "lyricist"
     },
     {
         "id": 7,
-        "authorRef": "6",
-        "nyanyianRef": "4",
+        "authorId": 6,
+        "titleId": 4,
         "role": "composer"
     },
     {
         "id": 8,
-        "authorRef": "7",
-        "nyanyianRef": "5",
+        "authorId": 7,
+        "titleId": 5,
         "role": "lyricist"
     },
     {
         "id": 9,
-        "authorRef": "8",
-        "nyanyianRef": "6",
+        "authorId": 8,
+        "titleId": 6,
         "role": "lyricist"
     },
     {
         "id": 10,
-        "authorRef": "21",
-        "nyanyianRef": "6",
+        "authorId": 21,
+        "titleId": 6,
         "role": "lyricist"
     },
     {
         "id": 11,
-        "authorRef": "6",
-        "nyanyianRef": "6",
+        "authorId": 6,
+        "titleId": 6,
         "role": "composer"
     },
     {
         "id": 12,
-        "authorRef": "9",
-        "nyanyianRef": "7",
+        "authorId": 9,
+        "titleId": 7,
         "role": "lyricist"
     },
     {
         "id": 13,
-        "authorRef": "10",
-        "nyanyianRef": "7",
+        "authorId": 10,
+        "titleId": 7,
         "role": "composer"
     },
     {
         "id": 14,
-        "authorRef": "11",
-        "nyanyianRef": "9",
+        "authorId": 11,
+        "titleId": 9,
         "role": "lyricist"
     },
     {
         "id": 15,
-        "authorRef": "12",
-        "nyanyianRef": "9",
+        "authorId": 12,
+        "titleId": 9,
         "role": "composer"
     },
     {
         "id": 16,
-        "authorRef": "13",
-        "nyanyianRef": "10",
+        "authorId": 13,
+        "titleId": 10,
         "role": "lyricist"
     },
     {
         "id": 17,
-        "authorRef": "14",
-        "nyanyianRef": "10",
+        "authorId": 14,
+        "titleId": 10,
         "role": "composer"
     },
     {
         "id": 18,
-        "authorRef": "15",
-        "nyanyianRef": "10",
+        "authorId": 15,
+        "titleId": 10,
         "role": "composer"
     },
     {
         "id": 19,
-        "authorRef": "16",
-        "nyanyianRef": "11",
+        "authorId": 16,
+        "titleId": 11,
         "role": "lyricist"
     },
     {
         "id": 20,
-        "authorRef": "17",
-        "nyanyianRef": "11",
+        "authorId": 17,
+        "titleId": 11,
         "role": "lyricist"
     },
     {
         "id": 21,
-        "authorRef": "18",
-        "nyanyianRef": "11",
+        "authorId": 18,
+        "titleId": 11,
         "role": "composer"
     },
     {
         "id": 22,
-        "authorRef": "19",
-        "nyanyianRef": "13",
+        "authorId": 19,
+        "titleId": 13,
         "role": "author"
     },
     {
         "id": 23,
-        "authorRef": "20",
-        "nyanyianRef": "14",
+        "authorId": 20,
+        "titleId": 14,
         "role": "book"
-    }
+    },
+    {
+        "id": 24,
+        "authorId": 22,
+        "titleId": 15,
+        "role": "author"
+    },
+    {
+        "id": 25,
+        "authorId": 23,
+        "titleId": 16,
+        "role": "author"
+    },
+    {
+        "id": 26,
+        "authorId": 24,
+        "titleId": 17,
+        "role": "author"
+    },
+    {
+        "id": 27,
+        "authorId": 25,
+        "titleId": 17,
+        "role": "author"
+    },
+    {
+        "id": 28,
+        "authorId": 20,
+        "titleId": 18,
+        "role": "author"
+    },
 ]

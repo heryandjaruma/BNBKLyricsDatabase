@@ -82,5 +82,34 @@
         "englishTitle": "The Lord's My Shepherd",
         "indonesianTitle": "Raja Kasih Gembalaku",
         "type": "nyanyian"
+    },
+    {
+        "id": 15,
+        "englishTitle": "Blessed and Glorious King",
+        "indonesianTitle": "Raja yang Mulia S'karang Kami Sembah",
+        "type": "nyanyian"
+    },
+    {
+        "id": 16,
+        "englishTitle":"To God Be the Glory",
+        "indonesianTitle":"S'gala Kemulia'n Bagi Allah Rahman",
+        "type": "nyanyian"
+    },
+    {
+        "id": 17,
+        "englishTitle": "Amazing Grace",
+        "indonesianTitle": "Sungguh Besar Anug'rah-Nya",
+        "type": "nyanyian"
+    },
+    {
+        "id": 18,
+        "englishTitle": "The Lord is My Shepered",
+        "indonesianTitle": "Tuhan Itu Gembalaku yang Membimbing Aku",
+        "type": "nyanyian"
+    },
+    {
+        "englishTitle": "Jehovah is Our Strength",
+        "indonesianTitle": "Tuhan kekuatanku, kupuji nama-Nya"
     }
+
 ]
