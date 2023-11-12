@@ -1,6 +1,8 @@
 O = optional
 V = must
 
+Main Tabs : BNBK, Nusantara, Internasional
+
 # Song
 - id V
 - english O
@@ -23,6 +25,7 @@ V = must
     = youtube
     = tags ::: Arr
 ]
+- variasi O : []
 
 # Window of the World
 - title : [
