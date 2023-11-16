@@ -1,7 +1,32 @@
 O = optional
 V = must
 
-Main Tabs : BNBK, Nusantara, Internasional
+Main Tabs : Beranda, BNBK, Bala, Lainnya
+
+Tab Beranda:
+- Today recommendation song
+- News : What's happening in BK (Events, TGIF, etc)
+- From Nusantara
+- Internasional
+
+Tab BNBK:
+- Search lagu
+- Recent (nanti)
+- nyanyian
+- koor
+- variasi
+
+Tab Bala Ku:
+- promosi : upload videomu ke sini
+- recommendation
+- tamburin, brass band, dance, paduan suara, etc menu
+- brass band
+- random
+
+Lainnya:
+- Profile : nama, email, korps asal
+- saved song
+- saved video
 
 # Song
 - id V
